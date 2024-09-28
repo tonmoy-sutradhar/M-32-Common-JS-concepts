@@ -5,6 +5,7 @@ function sum(a, b, c) {
   const result = a + b + c;
   return result;
 }
+
 const total = sum(3, 4, 6, 9, 7, 8); //arguments
 console.log("Total sum is -->> ", total);
 

@@ -18,6 +18,7 @@ function frnd(x, y) {
   x.num1 = 300;
   y.num2 = 500;
 }
+
 console.log("Primitive datatype");
 console.log(num1, num2);
 frnd(num1, num2);
